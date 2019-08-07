@@ -10,8 +10,8 @@ Note that there is an additional Jupyter Notebook that allows data visualization
 form. Please read comments for additional information. 
 
 ## Getting Started
-The primary source file to run is webserver.py.
-It contains a Flask application that runs a webserver on localhost:8080, 
+The primary source file to run is webserver.py, which is in the websvr folder.
+It contains a Flask application that runs a webserver on localhost:80, 
 which is where the AquiSuites will be pushing data to.
 
 ### Prerequisites 
